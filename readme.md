@@ -61,19 +61,9 @@ multi_client_chat_application/
 
 ### Chat Client Interface
 
-```text
-+----------------------------------+
-|        Chat Room                 |
-+----------------------------------+
-| User1: Hello                     |
-| User2: Hi there!                 |
-|                                  |
-+----------------------------------+
-| Type your message here...        |
-+----------------------------------+
-|            Send                  |
-+----------------------------------+
-```
+<p align="center">
+  <img src="images\project_test.png"/>
+</p>
 
 ---
 
