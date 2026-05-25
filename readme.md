@@ -117,18 +117,6 @@ This project helps in understanding:
 
 ---
 
-## 📌 Future Improvements
-
-- 🔐 Add encryption for messages
-- 🌍 Support remote connections
-- 🎨 Improve GUI design
-- 🟢 Online users list
-- 💾 Chat history storage
-- 📁 File sharing support
-- 😊 Emoji support
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
